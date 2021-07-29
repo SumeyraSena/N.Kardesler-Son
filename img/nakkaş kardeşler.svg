@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit Evaluation Version) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="722" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial Kalın"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="K" horiz-adv-x="722" d="M74.9995 0l0 716 145.001 0 0 -317.167 292.165 317.167 194.335 0 -270.167 -278.834 284.166 -437.166 -187 0 -197.001 336.166 -116.499 -119.666 0 -216.5 -145.001 0z"/>
+   <glyph unicode="N" horiz-adv-x="722" d="M72.9993 0l0 716 140.335 0 294.667 -479.833 0 479.833 133.999 0 0 -716 -144.833 0 -290.167 470.667 0 -470.667 -134.001 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#0B67AA}
+    .fil3 {fill:#389293}
+    .fil1 {fill:#83CB5D}
+    .fil2 {fill:white}
+    .fnt0 {font-weight:bold;font-size:5644.44px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0" cx="4747.29" cy="9799.13" r="3578.8"/>
+  <circle class="fil1" cx="10529.22" cy="9799.13" r="3578.8"/>
+  <text x="2610.37" y="11726.16"  class="fil2 fnt0">N</text>
+  <text x="8443.03" y="11726.16"  class="fil2 fnt0">K</text>
+  <path class="fil3" d="M7638.24 11909.03c-432.39,-591.67 -687.83,-1320.91 -687.83,-2109.92 0,-789.01 255.44,-1518.25 687.83,-2109.92 432.39,591.67 687.84,1320.91 687.84,2109.92 0,789.01 -255.45,1518.25 -687.84,2109.92z"/>
+ </g>
+</svg>
